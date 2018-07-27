@@ -1,18 +1,10 @@
 # person.rb
 
-class Person()
-  def initialize
-    @adele_goldberg = adele goldberg 
-    @alan_kay = alan kay
-  end
-  def adele goldberg
-    @adele_goldberg
-  end
-end
+class Person
+end 
 
-person_one = Person.new("adele_goldberg", "alan kay")
-
-puts person_one.name
+adele_goldberg = Person.new 
+alan_kay = Person.new 
 
 
     
